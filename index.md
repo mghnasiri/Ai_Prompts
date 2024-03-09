@@ -1,67 +1,31 @@
-AI_Prompts/
-│
-├── README.md
-├── CONTRIBUTING.md
-├── INDEX.md
-│
-├── Education/
-│   ├── Mathematics/
-│   │   ├── algebra_prompts.md
-│   │   ├── geometry_prompts.md
-│   │   └── calculus_prompts.md
-│   │
-│   ├── Science/
-│   │   ├── physics_prompts.md
-│   │   ├── chemistry_prompts.md
-│   │   └── biology_prompts.md
-│   │
-│   ├── History/
-│   │   ├── world_history_prompts.md
-│   │   ├── american_history_prompts.md
-│   │   └── ancient_civilizations_prompts.md
-│   │
-│   └── Language_Learning/
-│       ├── english_prompts.md
-│       ├── spanish_prompts.md
-│       └── mandarin_prompts.md
-│
-├── Productivity/
-│   ├── Time_Management/
-│   │   └── daily_planning_prompts.md
-│   │
-│   ├── Project_Planning/
-│   │   └── agile_scrum_prompts.md
-│   │
-│   └── Personal_Development/
-│       └── goal_setting_prompts.md
-│
-├── Creative_Writing/
-│   ├── Story_Starters/
-│   │   ├── fantasy_prompts.md
-│   │   └── mystery_prompts.md
-│   │
-│   └── Poetry/
-│       ├── haiku_prompts.md
-│       └── sonnet_prompts.md
-│
-├── Entertainment/
-│   ├── Games/
-│   │   └── trivia_prompts.md
-│   │
-│   └── Humor/
-│       └── dad_jokes_prompts.md
-│
-├── Technical/
-│   ├── Programming/
-│   │   ├── python_prompts.md
-│   │   └── javascript_prompts.md
-│   │
-│   └── Technology_Explorations/
-│       └── ai_prompts.md
-│
-└── Health_&_Wellness/
-    ├── Mental_Health/
-    │   └── mindfulness_prompts.md
-    │
-    └── Fitness/
-        └── exercise_routines_prompts.md
+# AI_Prompts Index
+
+Explore our collection of AI and ChatGPT prompts, organized by categories and subcategories to help you find exactly what you need.
+
+## Categories and Subcategories
+
+### Education
+- [Mathematics](#) - Engage with prompts covering algebra, geometry, calculus, and more.
+- [Science](#) - Explore the wonders of physics, chemistry, biology, and earth science.
+- [History](#) - Dive into the past with prompts about historical events, figures, and analysis.
+- [Language Learning](#) - Enhance your language skills with prompts for English, Spanish, French, and more.
+
+### Productivity
+- [Time Management](#) - Find prompts to help organize your day and manage your time more effectively.
+- [Project Planning](#) - Tools and techniques for planning and executing projects efficiently.
+
+### Creative Writing
+- [Story Starters](#) - Jumpstart your imagination with these creative story prompts.
+- [Poetry](#) - Prompts to inspire your poetic side.
+
+### Entertainment
+- [Games](#) - Have fun with prompts designed for interactive and engaging games.
+- [Humor](#) - Lighten up with jokes and humorous prompts.
+
+### Technical
+- [Programming](#) - Improve your coding skills with programming challenges and explanations.
+- [Technology Explorations](#) - Learn about the latest in technology and how to navigate its complexities.
+
+### Health & Wellness
+- [Mental Health](#) - Prompts to guide conversations about mental health and emotional wellbeing.
+- [Fitness](#) - Stay active with prompts related to physical exercise and fitness tips.
